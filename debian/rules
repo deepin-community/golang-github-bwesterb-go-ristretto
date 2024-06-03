@@ -1,4 +1,7 @@
 #!/usr/bin/make -f
 
+# Add testdata into library package    
+export DH_GOLANG_INSTALL_EXTRA := cref/base_multiples.data
+
 %:
-	dh $@
+	dh $@ --builddirectory=_build --buildsystem=golang

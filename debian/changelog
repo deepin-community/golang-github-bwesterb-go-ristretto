@@ -1,5 +1,24 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-bwesterb-go-ristretto (1.2.3-2) unstable; urgency=medium
 
-  * Initial release
+  * Bump debian version as 1.2.3-1 was already seen in experimental.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Martin Dosch <martin@mdosch.de>  Sun, 11 Jun 2023 18:42:24 +0000
+
+golang-github-bwesterb-go-ristretto (1.2.3-1) unstable; urgency=medium
+
+  * New upstream version 1.2.3
+
+ -- Martin Dosch <martin@mdosch.de>  Sun, 11 Jun 2023 16:41:01 +0000
+
+golang-github-bwesterb-go-ristretto (1.2.2-2) unstable; urgency=medium
+
+  * Team upload.
+  * Source-only Upload.
+
+ -- Nilesh Patra <nilesh@debian.org>  Wed, 17 Aug 2022 22:12:54 +0530
+
+golang-github-bwesterb-go-ristretto (1.2.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1017047)
+
+ -- Martin Dosch <martin@mdosch.de>  Fri, 12 Aug 2022 18:57:51 +0530
